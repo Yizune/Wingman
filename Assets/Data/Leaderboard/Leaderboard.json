@@ -1,0 +1,38 @@
+{
+    "levelLeaderboardList": [
+        {
+            "ID": "Old_Emil_Level_1",
+            "LevelName": "[Old] Seaside Town",
+            "ScoreEntryList": [
+                {
+                    "TimeTaken": 55.830055236816409,
+                    "PlayerName": "notBugFeature"
+                }
+            ]
+        },
+        {
+            "ID": "Emil_New_Level_1",
+            "LevelName": "[NEW] Easy - Seaside Town",
+            "ScoreEntryList": [
+                {
+                    "TimeTaken": 45.81782150268555,
+                    "PlayerName": "Testing"
+                },
+                {
+                    "TimeTaken": 55.35215759277344,
+                    "PlayerName": "notBugFeature"
+                }
+            ]
+        },
+        {
+            "ID": "Emil_New_Level_2",
+            "LevelName": "[NEW] Medium - Lighthouse Lookout",
+            "ScoreEntryList": [
+                {
+                    "TimeTaken": 49.01666259765625,
+                    "PlayerName": "notBugFeature"
+                }
+            ]
+        }
+    ]
+}

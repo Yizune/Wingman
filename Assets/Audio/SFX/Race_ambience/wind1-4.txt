@@ -1,0 +1,1 @@
+Wind 1 - 4 can be used with eachother for a more dynamic wind sound.
